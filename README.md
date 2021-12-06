@@ -8,13 +8,13 @@ The purpose of this analysis is to find the number of retiring employees per tit
 
 ## Results
 ### Retiring Employees by Title 
-![unique_titles]( https://github.com/Robeliom15/Pewlett-Hackard-Analysis/blob/main/Resources/unique_titles.png?raw=true)
+![unique_titles](https://github.com/Robeliom15/Pewlett-Hackard-Analysis/blob/main/Resources/unique_titles.png?raw=true)
 
 ### Count of Retiring Titles
-![retiring_titles]( https://github.com/Robeliom15/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.png?raw=true)
+![retiring_titles](https://github.com/Robeliom15/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.png?raw=true)
 
 ### Mentorship Eligibility
-![mentorship_eligibilty]( https://github.com/Robeliom15/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibilty.png?raw=true)
+![mentorship_eligibilty](https://github.com/Robeliom15/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibilty.png?raw=true)
 
 ### Summary
 
